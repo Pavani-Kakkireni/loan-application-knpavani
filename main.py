@@ -75,7 +75,7 @@ def main():
     st.title('Loan Application  ')
     st.text(" Loan or No-Loan application developed by K N Pavani")
     st.markdown("---")
-    st.text("Please enter the User details below to check whether loan approved or not..!!!")
+    st.text("Please enter the User details below to check whether the loan approved or not..!!!")
 
     Gender = st.selectbox(
     'What is your gender?',
